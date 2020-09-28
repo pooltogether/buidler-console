@@ -1,4 +1,6 @@
-# PoolTogether Buidler Starter Project
+# PoolTogether Buidler Console
+
+Easily interact with PoolTogether contracts using a node repl.
 
 This project is a basic [Buidler](https://buidler.dev/) project that users Ethers.js and includes the PoolTogether contracts.
 
